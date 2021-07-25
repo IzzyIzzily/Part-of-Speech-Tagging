@@ -1,1 +1,2 @@
 # Part-of-Speech-Tagging
+This natural language processing project is to automatically tag review subjects along with sentiment analysis. Text reviews were scraped from hotels.com, which included online reviews from major websites such as Expedia and Wotif. 11 tags were identified by frequency and validated. The model achieved 79% accuracy with 11 classes. Sentiment analysis was further introduced to classify positive and negative aspects.
